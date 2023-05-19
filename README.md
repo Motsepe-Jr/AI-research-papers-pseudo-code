@@ -7,4 +7,4 @@ By exploring the repository, you can gain insights into the algorithms and techn
 
 Contributions to the repository are welcome from the AI community. If you have pseudocode implementations from research papers that are not yet included, feel free to submit a pull request. Together, we can build a comprehensive and accessible resource that facilitates understanding and implementation of AI research.
 
-Disclaimer: The pseudo code is not meant to mirro the source code line by line, but the opbjective is to condence the algorithm into small code that everyone can understand
+Disclaimer: The pseudocode aims to present the algorithm in a condensed form that is easily understandable, rather than mirroring the exact line-by-line structure of the source code.
