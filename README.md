@@ -1,4 +1,4 @@
-# AI Pseudocode Papers
+# AI Papers Pseudocode 
 
 This repository contains pseudocode implementations for AI papers across different topics. The goal of this project is to provide pseudocode explanations and implementations for various AI techniques, algorithms, and methodologies.
 
